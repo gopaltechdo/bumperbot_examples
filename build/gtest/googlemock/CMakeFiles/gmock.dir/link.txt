@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libgmockd.so -o ../lib/libgmockd.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/gopal/ros/bumperbot_ws/src/bumperbot_examples/build/gtest/lib ../lib/libgtestd.so -lpthread 
